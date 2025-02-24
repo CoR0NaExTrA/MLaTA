@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zzenam\\source\\repos\\CoinChange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FED0A2-0828-4C63-8086-9ABCD39CEA11}|CoinChange\\CoinChange.vcxproj|C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\CoinChange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22FED0A2-0828-4C63-8086-9ABCD39CEA11}|CoinChange\\CoinChange.vcxproj|solutionrelative:CoinChange\\CoinChange.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FED0A2-0828-4C63-8086-9ABCD39CEA11}|CoinChange\\CoinChange.vcxproj|C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22FED0A2-0828-4C63-8086-9ABCD39CEA11}|CoinChange\\CoinChange.vcxproj|solutionrelative:CoinChange\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\input.txt",
+              "RelativeDocumentMoniker": "CoinChange\\input.txt",
+              "ToolTip": "C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\input.txt",
+              "RelativeToolTip": "CoinChange\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T11:21:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinChange.cpp",
+              "DocumentMoniker": "C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\CoinChange.cpp",
+              "RelativeDocumentMoniker": "CoinChange\\CoinChange.cpp",
+              "ToolTip": "C:\\Users\\Zzenam\\source\\repos\\CoinChange\\CoinChange\\CoinChange.cpp",
+              "RelativeToolTip": "CoinChange\\CoinChange.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T11:07:01.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
