@@ -1,0 +1,8 @@
+﻿  MatrixSort.cpp
+C:\Users\Zzenam\MLaTA\MatrixSort\MatrixSort\MatrixSort.cpp(12,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  2 of 305 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MatrixSort.vcxproj -> C:\Users\Zzenam\MLaTA\MatrixSort\x64\Release\MatrixSort.exe

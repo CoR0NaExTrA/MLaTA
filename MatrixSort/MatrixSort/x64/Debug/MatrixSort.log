@@ -1,3 +1,4 @@
 ﻿  MatrixSort.cpp
-C:\Users\Zzenam\source\repos\MatrixSort\MatrixSort\MatrixSort.cpp(10,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  MatrixSort.vcxproj -> C:\Users\Zzenam\source\repos\MatrixSort\x64\Debug\MatrixSort.exe
+C:\Users\Zzenam\MLaTA\MatrixSort\MatrixSort\MatrixSort.cpp(12,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\Zzenam\MLaTA\MatrixSort\x64\Debug\MatrixSort.exe при последней инкрементной компоновке; выполняется полная компоновка
+  MatrixSort.vcxproj -> C:\Users\Zzenam\MLaTA\MatrixSort\x64\Debug\MatrixSort.exe
