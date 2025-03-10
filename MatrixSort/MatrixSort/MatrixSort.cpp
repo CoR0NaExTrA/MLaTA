@@ -27,7 +27,7 @@ void find_swaps(vector<int>& mapping, int& swaps) {
 }
 
 int main() {
-    ifstream fin("input.txt");
+    ifstream fin("input3.txt");
     ofstream fout("OUTPUT.TXT");
 
     int n;
